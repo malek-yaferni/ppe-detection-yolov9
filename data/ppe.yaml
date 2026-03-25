@@ -1,0 +1,7 @@
+path: C:/Users/malek/yolov9/datasets/ppe
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: ['Helmet', 'Vest', 'Head']

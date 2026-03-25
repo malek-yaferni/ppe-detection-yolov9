@@ -1,0 +1,17 @@
+# Ignore datasets
+datasets/
+
+# Ignore YOLO training outputs
+runs/
+
+# Ignore model weights
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Images & labels (large files)
+*.jpg
+*.png
+*.txt
