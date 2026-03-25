@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOLOv9
 
 Implementation of paper - [YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://arxiv.org/abs/2402.13616)
@@ -333,3 +334,7 @@ python caption/train.py --workers 8 --device 0 --batch 32  --data coco.yaml --im
 * [https://github.com/meituan/YOLOv6](https://github.com/meituan/YOLOv6)
 
 </details>
+=======
+# ppe-detection-yolov9
+Real-time PPE detection system using YOLOv9 with Streamlit dashboard
+>>>>>>> d999721cc9dcc81a5d02e684614c15fc119b10e7
